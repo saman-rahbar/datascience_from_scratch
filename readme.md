@@ -1,6 +1,6 @@
-A comprehensive hands on tutorial on Data Science
+<A comprehensive hands on tutorial on Data Science>
 
-Tha language used is:
+The language used is:
 - Python 3
 
 Make sure the referenced libraries are installed before running the codes
