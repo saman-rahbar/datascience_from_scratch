@@ -1,4 +1,4 @@
-<A comprehensive hands on tutorial on Data Science>
+\b{A comprehensive hands on tutorial on Data Science}
 
 The language used is:
 - Python 3
